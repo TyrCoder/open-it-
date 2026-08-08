@@ -13,7 +13,7 @@ and creative digital projects.
 -  Interested in AI-Assisted Development
 -  Always learning and building new projects
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 Python • JavaScript • TypeScript • Luau • HTML • CSS • SQL
